@@ -1,0 +1,35 @@
+body {
+    background-color: rgb(247, 244, 242);
+}
+
+h1 {
+    text-align: center;
+    font-style: oblique;
+}
+
+.OpBasicas {
+   padding: 20px;
+}
+
+.Medio {
+    padding: 20px;
+}
+
+.orden {
+    padding: 20px;
+}
+
+.Corporation {
+    text-align: center;
+    padding: 10px;
+    font-size: medium; 
+}
+
+.label {
+    font-style: oblique;
+}
+
+.labell {
+    font-size: smaller;
+    font-style: oblique;
+}
